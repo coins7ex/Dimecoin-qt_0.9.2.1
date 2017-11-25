@@ -10,7 +10,7 @@ Setup:
 
 -press "Debug window"
 
--press"Console"
+-press "Console"
 
 -use command:
 
