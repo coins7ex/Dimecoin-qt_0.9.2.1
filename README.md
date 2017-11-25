@@ -2,13 +2,13 @@
 
 Setup:
 
--download Dimecoin wallet Dimecoin-qt_0.9.2.1  for Wndows.
+-download Dimecoin wallet Dimecoin-qt_0.9.2.1  for Windows.
 
 -install wallet
 
 -press "help"
 
--pres "Debug window"
+-press "Debug window"
 
 -pess"Console"
 
@@ -16,7 +16,7 @@ Setup:
 
 addnode 177.85.98.203 add 
 
--pres "enter" and wait for syncing wallet.
+-press "enter" and wait for syncing wallet.
 
 List active nodes here: 
 
